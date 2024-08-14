@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+
+<body>
+    <!-- Outer Table for Border -->
+    <table width="100%" border="2" cellspacing="0" cellpadding="10">
+        <tr>
+            <td>
+
+                <!-- Header -->
+                <table width="100%">
+                    <tr>
+                        <td align="center">
+                            <h1>Manoj Kumar</h1>
+                        </td>
+                    </tr>
+                </table>
+
+                <!-- Main Content -->
+                <table width="100%">
+
+                    <!-- Objective Section -->
+                    <tr>
+                        <td width="20%">
+                            <h3>Objective</h3>
+                        </td>
+                        <td width="80%" align="left">
+                            <p>Aspiring and motivated frontend developer with a strong foundation in HTML, CSS, and
+                                JavaScript, eager to contribute to a dynamic development team. Seeking an entry-level
+                                position where I can apply my skills in responsive web design, modern UI/UX principles,
+                                and collaborative development practices to create engaging and user-friendly web
+                                applications. Passionate about continuous learning and excited to grow in a challenging
+                                environment that fosters innovation and technical excellence.</p>
+                        </td>
+                    </tr>
+
+                    <!-- Education Section -->
+                    <tr>
+                        <td width="20%">
+                            <h3>Education</h3>
+                        </td>
+                        <td width="80%" align="left">
+                            <p> Bachelor of Computer Applications and Commerce
+                                Sri Sai Degree and P.G College, Hyderabad
+                                Courses: Computer Applications, Accountancy, Business Statistics and Management.</p>
+                        </td>
+                    </tr>
+
+                    <!-- Work Experience Section -->
+                    <tr>
+                        <td width="20%">
+                            <h3>Work Experience</h3>
+                        </td>
+                        <td width="80%" align="left">
+                            <p> 1. Successfully built and deployed multiple scalable web applications, demonstrating
+                                proficiency in web develop
+                                ment, adherence to industry standards, and effective deployment practices.</p>
+                            <p>
+                                2. Managed 5+ Git repositories, demonstrating expertise in version control by ensuring
+                                code integrity and stream
+                                lining processes using advanced Git commands, branching strategies, and conflict
+                                resolution techniques.
+                            </p>
+
+                        </td>
+                    </tr>
+
+                    <!-- Projects Section -->
+                    <tr>
+                        <td width="20%">
+                            <h3>Projects</h3>
+                        </td>
+                        <td width="80%" align="left">
+                            <p>1. PlayTube- A Video Sharing and Social Media Platform developed using the MERN stack.
+                                https://playtube-app-frontend.vercel.app/ Demo id :- (Email: one@gmail.com, Password:
+                                12345678)</p>
+                            <p>
+                                • Developed PlayTube, a full-stack web app with YouTube’s video-sharing and Twitter’s
+                                social interaction features.
+                            </p>
+                            <p>
+
+                                2. BlogApp-A web app for creating, managing, and sharing content developed using React
+                                and Appwrite.
+                                https://blog-app-rust-mu.vercel.app/ Demo id :- (Email: one@gmail.com , Password:
+                                12345678)
+                            </p>
+                            <p>
+                                • Developed front-end user interface components using React and integrated secure user
+                                authentication and CRUD
+                                operations with an Appwrite back-end. Achieved Lighthouse performance score of 93 and
+                                SEO score of 90</p>
+                        </td>
+                    </tr>
+                </table>
+
+                <!-- Footer -->
+                <table width="20%" align="center">
+                    <tr>
+                        <td align="left">
+                            <h1>Contact Info</h1>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <table>
+                                <tr>
+                                    <td align="left">
+                                        <p>Phone: 9908993803</p>
+                                        <p>Email: manojkumar@cloudnix</p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
